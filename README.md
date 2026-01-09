@@ -22,6 +22,8 @@ yarn install:all
 
 ### 2. Run the app
 
+From the root directory `~/template-full-stack-app`, follow either methodology below:
+
 #### Method 1: Two Terminal Window view
 In one terminal window, run `yarn frontend`
 
