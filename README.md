@@ -1,5 +1,4 @@
-# commure-full-stack-interview
-Commure Full Stack Application
+# Template Full Stack Application
 
 ## Prerequisites
 * **Node.js** with **Yarn**
