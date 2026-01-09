@@ -1,0 +1,13 @@
+{
+  "name": "commure-full-stack-app",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"yarn backend\" \"yarn frontend\"",
+    "backend": "cd backend && uv run uvicorn main:app --reload",
+    "frontend": "cd frontend && yarn dev",
+    "install:all": "yarn install && cd frontend && yarn install && cd ../backend && uv sync"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
