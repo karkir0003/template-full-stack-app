@@ -2,8 +2,14 @@
 
 ## Prerequisites
 * **Node.js** with **Yarn**
-* **Python 3**
+* **Python 3 Fast API**
 * **uv**. Follow the installation instructions to install the latest stable version [here](https://docs.astral.sh/uv/getting-started/installation/)
+
+## Development Practice
+* It's strongly encouraged to follow the folder/file conventions for both the FE and BE
+* [FastAPI Docs](https://fastapi.tiangolo.com/tutorial/bigger-applications/#another-module-with-apirouter)
+* [React Docs](https://react.dev/)
+* [Vite Docs](https://vite.dev/guide/)
 
 ## Quick Start
 
